@@ -6,4 +6,4 @@ Just a simple shopping list app made with vanilla JavaScript.
 
 > Screenshot
 
-![Shopping List](https://demo.archet.no/img/shoppinglist.png 'Shopping List')
+![Shopping List](https://demo.archet.no/img/shoppinglist.png)
